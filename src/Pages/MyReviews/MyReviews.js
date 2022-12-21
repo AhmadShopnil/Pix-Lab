@@ -72,6 +72,8 @@ const MyReviews = () => {
 
                         <div className='min-h-screen'>
                             <h2 className='text-center text-4xl'>No Reviews</h2>
+
+
                         </div>
                     </>
             }

@@ -6,7 +6,7 @@ Pix Lab
 ## Deployment
 
 Deployed on Firebase
-live link : https://pix-lab-65514.web.app/
+live link : https://fluffy-cascaron-cd282a.netlify.app/
 
 
 ## Features

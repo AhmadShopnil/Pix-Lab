@@ -86,7 +86,7 @@ const Login = () => {
                 loading ?
                     <>
                         <div className='pb-96'>
-                            <progress className="progress "></progress>
+                            <progress className="progress  w-56 "></progress>
                         </div>
                     </>
                     :

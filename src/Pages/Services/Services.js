@@ -30,7 +30,7 @@ const Services = () => {
         <div>
             {
                 loader ?
-                    <div className='min-h-screen text-center'><progress className="progress w-56"></progress></div>
+                    <div className='min-h-screen text-center'><progress className="progress w-56  progress-info"></progress></div>
                     :
                     <>
                         <div className="grid flex-grow md:grid-cols-2  lg:grid-cols-3 gap-2  rounded-box place-items-center">
